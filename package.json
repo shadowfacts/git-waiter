@@ -4,8 +4,9 @@
 	"description": "Git waiter is a simple web interface for a Git server.",
 	"repository": "http://github.com/shadowfacts/git-waiter",
 	"dependencies": {
-		"express": "3.*.*",
+		"express": "4.*.*",
 		"ejs": "*",
-		"nodegit": "*"
+		"nodegit": "*",
+		"morgan": "*"
 	}
 }
